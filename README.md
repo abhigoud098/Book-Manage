@@ -34,4 +34,5 @@ JavaScript (ES6 Classes / OOP)
 
 📸 Screenshot
 
-<img width="1913" height="880" alt="image" src="https://github.com/user-attachments/assets/8d45955a-842e-4b38-9c3a-03535f9458e9" />
+<img width="1913" height="880" alt="Screenshot 2025-11-15 072028" src="https://github.com/user-attachments/assets/b7118755-02a3-4256-ab1d-8adb3a73ba65" />
+
